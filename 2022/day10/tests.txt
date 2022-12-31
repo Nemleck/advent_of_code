@@ -1,0 +1,27 @@
+noop
+addx 1
+noop
+noop
+addx 2
+noop
+addx 3
+noop
+noop
+noop
+addx 1
+noop
+noop
+addx 2
+noop
+addx 3
+noop
+noop
+noop
+addx 1
+noop
+noop
+addx 2
+noop
+addx 3
+noop
+noop
