@@ -52,8 +52,4 @@ Monkey 7:
   Operation: new = old + 5
   Test: divisible by 19
     If true: throw to monkey 1
-<<<<<<< HEAD
     If false: throw to monkey 0
-=======
-    If false: throw to monkey 0
->>>>>>> a8541c255da787455ffe4805018b7e1ddd30289a
